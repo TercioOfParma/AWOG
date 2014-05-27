@@ -1,0 +1,21 @@
+21
+Sandvitch;0;50;0;
+Souls;100;0;0;
+Pot;0;0;2;
+Pumpkin;10;10;1;
+Marijuana;40;10;-3;
+Holy Banana;50;30;1;
+Cough Medicine;0;70;0;
+Magic Mushrooms;100;-20;15;
+Cocaine;20;-10;5;
+PCP;33;-20;12;
+Aspirin;10;-2;1;
+Pringles;20;5;0;
+Jaffa Cakes;20;3;1;
+Chocolate;20;5;2;
+Petrol;40;-15;6;
+Instant Chuck Norris PowerUp;500;200;50;
+Cancer;10;-50;-50;
+Health +20;50;20;0;
+Gym MemberShip Card;50;50;10;
+Mango;5;5;5;

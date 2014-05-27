@@ -1,0 +1,39 @@
+Hello, welcome to the awog modding tutorial, it is easier to do shit in this than in other 
+games so look at the below and you will see what to do:
+
+first line, that number:
+
+This number tells the game how many items are in the file, so you need to change it when you
+have finished modding. Use notepad++ to code as it tells you the line number, which is 
+important as the last line in the file with a monster on it is the number you put at the
+top
+
+eg weapons.txt 
+5
+sword of derp;5;
+Axe;5;
+sword;7;
+cheese;6;
+
+there are 4 items and the first line thus the number is 5
+
+new monsters
+
+it is easy to create a new monster, you do it like this
+
+level;Monster name;hp;attack;successfull attack verb;failure verb;xp dropped;
+
+You really should organise this in order as the next version will relie on the order
+
+new weapon:
+
+weapon name;attack;
+
+new armour:
+
+armour name;armour;
+
+
+new consumable:
+
+potion name;xp;hp;attack;
